@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2B27851675DA58FB331990C19984B61404F09A0D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A6343E16BC2F648D0FEA647FB75CBADE0A25E0B8" : 0,
+    "2B27851675DA58FB331990C19984B61404F09A0D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2DEEF735-54E9-43F2-8AEB-377C0DF01243",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A6343E16BC2F648D0FEA647FB75CBADE0A25E0B8" : "..\/addons\/ofxTextInputField",
+    "2B27851675DA58FB331990C19984B61404F09A0D" : "ml4a-ofx\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ConvnetOSC_variation_IsItFunky",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "apps\/ConvnetOSC_variation_IsItFunky\/ConvnetOSC_variation_IsItFunky.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ml4a\/ml4a-ofx.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2B27851675DA58FB331990C19984B61404F09A0D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Flightphase\/ofxTextInputField.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A6343E16BC2F648D0FEA647FB75CBADE0A25E0B8"
+    }
+  ]
+}
